@@ -228,3 +228,5 @@ Berdasarkan analisis nilai kepentingan fitur dari model Random Forest terbaik, d
 5. **Sudden weight loss** - Penurunan berat badan secara tiba-tiba.
 
 Gejala klinis **Polyuria** dan **Polydipsia** merupakan sinyal terkuat untuk mendeteksi diabetes secara dini. Hal ini sangat sejalan dengan literatur medis di mana kedua gejala tersebut merupakan indikasi klasik dari penumpukan glukosa dalam darah yang memaksa ginjal bekerja lebih keras untuk menyaring dan menyerapnya kembali [1].
+
+**---Ini adalah bagian akhir laporan---**
